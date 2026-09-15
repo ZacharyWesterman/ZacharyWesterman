@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Zachary Westerman&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 8, Total Commits  (last year) : 1424, Total PRs: 306, Total Issues: 666, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 8, Total Commits  (last year) : 1430, Total PRs: 308, Total Issues: 666, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 107.19585463711933;
+        stroke-dashoffset: 107.15782068906657;
       }
     }
   
@@ -188,7 +188,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >306</text>
+      >308</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
